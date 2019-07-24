@@ -1,0 +1,19 @@
+{
+  "name": "hvk3ls0heei1swqhfvfp2a_1fd677102d0711e8a11f3f5f282cfd8b_aboutus.html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aishwarya",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "lite": "^4.0.5",
+    "loadash": "^1.0.0",
+    "popper.js": "^1.15.0",
+    "server": "^1.0.19"
+  }
+}
